@@ -1,6 +1,6 @@
 # aula02
 
 # Repositório aula 02 - processos departamentais
-antes de dormir coma
+antes de dormir coma, mas não coma muito
 
-    Este projeto se refere ao workflow 01
+Este projeto se refere ao workflow 01
